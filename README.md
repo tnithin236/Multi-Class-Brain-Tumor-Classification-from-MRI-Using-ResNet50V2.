@@ -19,6 +19,9 @@
 
 ## 📖 Overview
 
+<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/5bd62d1d-14df-43dc-b097-d745c2f7b2fa" />
+
+
 Accurate classification of brain tumors from MRI is critical for treatment planning, yet it is hard: tumor classes look alike, datasets are small and imbalanced, and models often fail when images come from a different scanner or protocol.
 
 This project implements a **two-phase transfer learning framework** built on **ResNet50V2 (ImageNet-pretrained)** that classifies brain MRI slices into four classes:
@@ -321,5 +324,3 @@ We thank **Dr. A. Kousalya**, Associate Professor, Department of Artificial Inte
 
 <!-- Add your license here, e.g. MIT -->
 This project is released under the **[LICENSE NAME]** license. See the `LICENSE` file for details.
-<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/5bd62d1d-14df-43dc-b097-d745c2f7b2fa" />
-
